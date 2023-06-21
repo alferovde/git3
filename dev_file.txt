@@ -1,7 +1,5 @@
 only dev branch version
-<<<<<<< HEAD
 edit for master branch
-=======
-
 edit new change dev branch
->>>>>>> dev
+
+final edit

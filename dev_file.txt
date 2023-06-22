@@ -2,10 +2,10 @@ only dev branch version
 edit for master branch
 edit new change dev branch
 
-<<<<<<< HEAD
+
 final edit
 
 new coomit master rebas
-=======
+
 final edit
->>>>>>> 66e3d1c (finish!)
+

@@ -3,3 +3,5 @@ edit for master branch
 edit new change dev branch
 
 final edit
+
+new coomit master rebas
